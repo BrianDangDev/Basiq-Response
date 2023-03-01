@@ -1,0 +1,371 @@
+{
+  "type": "affordability",
+  "id": "fd3ba352-c48c-450c-873f-a00c44d5428b",
+  "fromMonth": "2021-12",
+  "toMonth": "2022-12",
+  "coverageDays": 395,
+  "generatedDate": "2023-02-05T23:26:08",
+  "summary": {
+    "assets": "256921.25",
+    "liabilities": "251569.67",
+    "netPosition": "508490.92",
+    "creditLimit": "70581.58",
+    "expenses": "-7028.00",
+    "savings": null,
+    "loanRepaymentsMonthly": "0.00",
+    "potentialLiabilitiesMonthly": null,
+    "regularIncome": {
+      "previous3Months": {
+        "avgMonthly": "7283.51"
+      }
+    }
+  },
+  "assets": [
+    {
+      "currency": "AUD",
+      "balance": "99623.36",
+      "availableFunds": "99623.36",
+      "institution": "Hooli",
+      "type": "account",
+      "account": {
+        "product": "Checking Account",
+        "type": "transaction"
+      },
+      "previous6Months": {
+        "minBalance": null,
+        "maxBalance": null
+      }
+    },
+    {
+      "currency": "AUD",
+      "balance": "155960.89",
+      "availableFunds": "155960.89",
+      "institution": "Hooli",
+      "type": "account",
+      "account": {
+        "product": "Living Super",
+        "type": "transaction"
+      },
+      "previous6Months": {
+        "minBalance": null,
+        "maxBalance": null
+      }
+    },
+    {
+      "currency": "AUD",
+      "balance": "1337.00",
+      "availableFunds": "1337.00",
+      "institution": "Hooli",
+      "type": "account",
+      "account": {
+        "product": "Transaction",
+        "type": "transaction"
+      },
+      "previous6Months": {
+        "minBalance": null,
+        "maxBalance": null
+      }
+    }
+  ],
+  "liabilities": {
+    "loan": [
+      {
+        "currency": "AUD",
+        "balance": "216278.88",
+        "availableFunds": "216278.88",
+        "institution": "Hooli",
+        "account": {
+          "type": "mortgage",
+          "product": "Special Fixed Home Loan"
+        },
+        "previousMonth": {
+          "totalCredits": "7308.78",
+          "totalDebits": "0.00",
+          "totalInterestCharged": "0.00",
+          "totalRepayments": "0.00"
+        },
+        "changeHistory": [
+          {
+            "direction": "credit",
+            "amount": "1283.10",
+            "date": "2021-12-03",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "5000.00",
+            "date": "2021-12-09",
+            "source": "loan draw down"
+          },
+          {
+            "direction": "credit",
+            "amount": "1286.37",
+            "date": "2021-12-15",
+            "source": "deposit"
+          },
+          {
+            "direction": "credit",
+            "amount": "693.31",
+            "date": "2021-12-31",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1288.32",
+            "date": "2022-01-05",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "5000.00",
+            "date": "2022-01-09",
+            "source": "loan draw down"
+          },
+          {
+            "direction": "credit",
+            "amount": "830.68",
+            "date": "2022-01-15",
+            "source": "deposit"
+          },
+          {
+            "direction": "credit",
+            "amount": "690.30",
+            "date": "2022-01-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1285.28",
+            "date": "2022-02-04",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "689.61",
+            "date": "2022-02-28",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1289.45",
+            "date": "2022-03-05",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "688.16",
+            "date": "2022-03-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1285.75",
+            "date": "2022-04-04",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "5000.00",
+            "date": "2022-04-09",
+            "source": "loan draw down"
+          },
+          {
+            "direction": "credit",
+            "amount": "273.73",
+            "date": "2022-04-15",
+            "source": "deposit"
+          },
+          {
+            "direction": "credit",
+            "amount": "692.79",
+            "date": "2022-04-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1289.32",
+            "date": "2022-05-05",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "5000.00",
+            "date": "2022-05-09",
+            "source": "loan draw down"
+          },
+          {
+            "direction": "credit",
+            "amount": "799.79",
+            "date": "2022-05-15",
+            "source": "deposit"
+          },
+          {
+            "direction": "credit",
+            "amount": "689.22",
+            "date": "2022-05-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1289.84",
+            "date": "2022-06-05",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "692.98",
+            "date": "2022-06-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1280.97",
+            "date": "2022-07-03",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "5000.00",
+            "date": "2022-07-09",
+            "source": "loan draw down"
+          },
+          {
+            "direction": "credit",
+            "amount": "447.29",
+            "date": "2022-07-15",
+            "source": "deposit"
+          },
+          {
+            "direction": "credit",
+            "amount": "688.64",
+            "date": "2022-07-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1288.59",
+            "date": "2022-08-05",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "5000.00",
+            "date": "2022-08-09",
+            "source": "loan draw down"
+          },
+          {
+            "direction": "credit",
+            "amount": "545.48",
+            "date": "2022-08-15",
+            "source": "deposit"
+          },
+          {
+            "direction": "credit",
+            "amount": "691.72",
+            "date": "2022-08-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1281.12",
+            "date": "2022-09-03",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "693.36",
+            "date": "2022-09-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1282.81",
+            "date": "2022-10-03",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "691.05",
+            "date": "2022-10-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1288.79",
+            "date": "2022-11-05",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "5000.00",
+            "date": "2022-11-09",
+            "source": "loan draw down"
+          },
+          {
+            "direction": "credit",
+            "amount": "328.27",
+            "date": "2022-11-15",
+            "source": "deposit"
+          },
+          {
+            "direction": "credit",
+            "amount": "691.72",
+            "date": "2022-11-30",
+            "source": "interest charged"
+          },
+          {
+            "direction": "credit",
+            "amount": "1280.05",
+            "date": "2022-12-03",
+            "source": "loan installment   loan repayment from a/c 12-999-000"
+          },
+          {
+            "direction": "credit",
+            "amount": "693.88",
+            "date": "2022-12-31",
+            "source": "interest charged"
+          }
+        ],
+        "previous6Months": {
+          "arrears": "false"
+        }
+      }
+    ],
+    "credit": [
+      {
+        "currency": "AUD",
+        "balance": "35290.79",
+        "availableFunds": "35290.79",
+        "institution": "Hooli",
+        "creditLimit": "70581.58",
+        "account": {
+          "type": "credit-card",
+          "product": "Credit Card"
+        },
+        "previousMonth": {
+          "totalCredits": "10006.75",
+          "totalDebits": "-3479.51",
+          "minBalance": null,
+          "maxBalance": null
+        },
+        "previous6Months": {
+          "cashAdvances": "0.00"
+        }
+      }
+    ]
+  },
+  "external": [],
+  "links": {
+    "self": "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/affordability/fd3ba352-c48c-450c-873f-a00c44d5428b",
+    "income": "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/income/fd3ba352-c48c-450c-873f-a00c44d5428b",
+    "expenses": "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/expenses/fd3ba352-c48c-450c-873f-a00c44d5428b",
+    "accounts": [
+      "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/accounts/28415eaa-8f9d-4156-8f09-9d09c34fc85f",
+      "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/accounts/4ee4ee96-d377-4a74-b070-65fb04c55f75",
+      "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/accounts/60d70593-abe6-42f4-aed6-eea7cd78e6a6",
+      "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/accounts/7184c3ee-5972-43c8-8d0f-cd0d0cf1e006",
+      "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/accounts/b3bf5e29-ce2d-4c28-81ba-5cb0b47a8761",
+      "https://au-api.basiq.io/users/4a92c3d1-5f58-4326-a58b-305d47b7b415/accounts/f3f6358f-3133-44e8-a5be-ae8d9f7ecfa3"
+    ]
+  }
+}
